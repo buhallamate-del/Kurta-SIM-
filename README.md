@@ -1,6 +1,6 @@
 # Kurta szimulátor
 
-Humorjáték: minden böfi erősebb az előzőnél. Kurta – rövid, sötét szakállas, kék pólóban és farmerban – kólát és Bika energiaitalt iszik. Ha 100%-os gázzal böfög, szintet lép: a következő böfi hangosabb, hosszabb és pusztítóbb. 16 szint van, 60 dB-től (Nagyi úgy tesz, mintha nem hallotta volna) 440 dB-ig (a Föld darabokra szakad).
+Humorjáték: minden böfi erősebb az előzőnél. Kurta – rövid, sötét szakállas, rózsaszín crop topban, farmerban és tűsarkúban, hosszú műkörmökkel – kólát és Bika energiaitalt iszik. Ha 100%-os gázzal böfög, szintet lép: a következő böfi hangosabb, hosszabb és pusztítóbb. 16 szint van, 60 dB-től (Nagyi úgy tesz, mintha nem hallotta volna) 440 dB-ig (a Föld darabokra szakad).
 
 Játszható a böngészőben: https://buhallamate-del.github.io/Kurta-SIM-/
 
